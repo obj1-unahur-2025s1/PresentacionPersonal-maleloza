@@ -1,4 +1,4 @@
-![Logo UNAHUR](./Roco.png)
+![Logo UNAHUR](./UNAHUR.png)
 
 # Programación con objetos I
 ## Presentación Personal
@@ -12,3 +12,4 @@
 ### Otra Información
 - Ya tenía una cuenta en github pero no recuerdo haberla usado jamás, así que digamos que es la primera vez.
 - Fun fact: Tengo un perro con diabetes llamado Roco, les dejo una foto abajo para que lo vean.
+![Foto de mi perro](./Roco.jpeg)
